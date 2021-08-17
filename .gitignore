@@ -1,0 +1,9 @@
+.idea/
+oauth2-authorization-code-demo/ac-authorization-server/target/
+oauth2-authorization-code-demo/ac-resource-server/target/
+oauth2-implicit-demo/i-authorization-server/target/
+oauth2-client-credentials-demo/cc-resource-server/target/
+oauth2-implicit-demo/i-resource-server/target/
+oauth2-resource-owner-password-credentials-demo/ropc-resource-server/target/
+oauth2-client-credentials-demo/cc-authorization-server/target/
+oauth2-resource-owner-password-credentials-demo/ropc-authorization-server/target/
